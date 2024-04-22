@@ -1,0 +1,22 @@
+[
+  {
+    "fecha_hora_conversion": "21/04/2024 19:19",
+    "moneda_base": "ARS",
+    "moneda_destino": "BOB",
+    "valor_a_convertir": "1.0 ARS",
+    "valor_moneda_destino": 0.008009,
+    "moneda_convertida": "1,00 (ARS) es igual a $ 0,01 (BOB)",
+    "ultima_actualizacion": "Mon, 22 Apr 2024 00:00:01 +0000",
+    "proxima_actualizacion": "Tue, 23 Apr 2024 00:00:01 +0000"
+  },
+  {
+    "fecha_hora_conversion": "21/04/2024 19:19",
+    "moneda_base": "MXN",
+    "moneda_destino": "EUR",
+    "valor_a_convertir": "10.0 MXN",
+    "valor_moneda_destino": 0.05478,
+    "moneda_convertida": "10,00 (MXN) es igual a $ 0,55 (EUR)",
+    "ultima_actualizacion": "Mon, 22 Apr 2024 00:00:01 +0000",
+    "proxima_actualizacion": "Tue, 23 Apr 2024 00:00:01 +0000"
+  }
+]
