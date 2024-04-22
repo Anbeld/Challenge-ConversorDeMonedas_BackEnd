@@ -93,7 +93,7 @@ public class EleccionMonedas {
         this.contadorFormatoOutput++;
         System.out.println("""
                 
-                %d. Salir
+                %d. Cerrar programa
                 
                 ---------------------------------------------------------------------
                 """.formatted(this.contadorFormatoOutput));
