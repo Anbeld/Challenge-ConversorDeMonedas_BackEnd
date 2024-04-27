@@ -91,7 +91,7 @@ public class Main {
                         Digite la opción que prefiera:
                         1. Realizar otra conversión
                         2. Historial de conversion
-                        3. Salir
+                        3. Cerrar programa
                         """;
                 System.out.println(mensajePostConversion);
                 eleccionMonedaInicial = verificarEleccionUsuario();
