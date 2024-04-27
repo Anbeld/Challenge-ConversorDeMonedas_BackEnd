@@ -168,8 +168,7 @@ public class EleccionMonedas {
                 if (this.codigoANombreMoneda.containsKey(monedaABuscar) && this.codigosMonedasNoSeleccionadas.containsKey(monedaABuscar)) {
                     this.eleccionMonedaDestino.put(0, monedaABuscar);
                     return true;
-                } else if (!this.codigosMonedasNoSeleccionadas.containsKey(monedaABuscar)) {
-                    System.out.println(codigosMonedasNoSeleccionadas.get(monedaABuscar));
+                } else if (!this.codigosMonedasNoSeleccionadas.containsKey(monedaABuscar) && this.codigoANombreMoneda.containsKey(monedaABuscar)) {
                     System.out.println("No puede convertir de %s a %s".formatted(monedaABuscar, monedaABuscar));
                     return false;
                 } else {
